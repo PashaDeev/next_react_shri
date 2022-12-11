@@ -44,7 +44,7 @@
     "commander": "3.0.2",
     "debug": "4.1.1",
     "emit-file-loader": "0.0.2",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "hermione": "2.12.6",
     "html-reporter": "4.13.1",
     "isomorphic-unfetch": "3.0.0",
